@@ -20,7 +20,7 @@ export default {
     <nav class="navbar navbar-dark bg-dark navbar-expand-md ">
         <div class="container-fluid">
             <RouterLink class="navbar-brand" to='/'>
-                <img src="../assets/HomeLogo.s vg" class='logo' alt="Home">
+                <img src="../assets/HomeLogo.svg" class='logo' alt="Home">
             </RouterLink>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" ref="navbar">
                 <span class="navbar-toggler-icon"></span>
