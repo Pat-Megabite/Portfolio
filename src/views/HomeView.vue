@@ -11,13 +11,13 @@ import { RouterLink } from 'vue-router';
                     <div class="col position-relative text-center">
                         <h1>pat@localhost: ~$</h1>
                         <div class="d-flex justify-content-center">
-                            <a class='icon-link p-1 mx-1' href="mailto:pat@pat.au">
+                            <a class='icon-link p-1 mx-1' href="mailto:hi@patstuart.au">
                                 <img src="../assets/envelope.svg" width="48" height="58">
                             </a>
-                            <a class='icon-link p-1 mx-1' href="#">
+                            <a class='icon-link p-1 mx-1' href="www.linkedin.com/in/patrick-stuart-aus">
                                 <img src="../assets/linkedin.svg" width="48" height="48">
                             </a>
-                            <a class='icon-link p-1 mx-1' href="#">
+                            <a class='icon-link p-1 mx-1' href="https://github.com/Pat-Megabite">
                                 <img src="../assets/github.svg" width="48" height="48">
                             </a>
                         </div>
@@ -33,11 +33,8 @@ import { RouterLink } from 'vue-router';
                                 <h5 class="card-title">What's On</h5>
                                 <p class="card-text">A site to show where movies and TV shows are avaliable in Australia. Utilises a backend built with Express to fetch and serve content via an API which is then dynamically rendered in Vue.</p>
                                 <div class="d-flex flex-row justify-content-center ">
-                                    <a class='icon-link p-1 mx-1' href="#"> 
+                                    <a class='icon-link p-1 mx-1' href='https://github.com/Pat-Megabite/WhatsOn'> 
                                         <img src="../assets/github.svg" width="32" height="32" >
-                                    </a>
-                                    <a class='icon-link p-1 mx-1' href="#"> 
-                                        <img src="../assets/demo.svg" width="32" height="32" >
                                     </a>
                                 </div>
                             </div>
@@ -48,7 +45,7 @@ import { RouterLink } from 'vue-router';
                                 <h5 class="card-title">This Site</h5>
                                 <p class="card-text">Built with Vue 3 and Bootstrap this site was a project in itself. Everything was built by hand with the exception of the tsparticle library.</p>
                                 <div class="d-flex flex-row justify-content-center">
-                                    <a class='icon-link p-1 mx-1' href="#"> 
+                                    <a class='icon-link p-1 mx-1' href="https://github.com/Pat-Megabite/Portfolio"> 
                                         <img src="../assets/github.svg" width="32" height="32" >
                                     </a>
                                 </div>

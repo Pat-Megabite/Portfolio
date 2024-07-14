@@ -9,8 +9,7 @@ let projects = [{
     desc: "A site to show where movies and TV shows are avaliable in Australia. Utilises a backend built with Express to fetch and serve content via an API which is then dynamically rendered in Vue.",
     pic: 'screen',
     tags: ['web development'], 
-    github: '#',
-    demo: '#'
+    github: 'https://github.com/Pat-Megabite/WhatsOn',
 },
 {
     id:2,
@@ -18,7 +17,7 @@ let projects = [{
     desc: "Built with Vue 3 and Bootstrap this site was a project in itself. Everything was built by hand with the exception of the tsparticle library.",
     pic: 'screen',
     tags: ['web development'],
-    github: '#'
+    github: 'https://github.com/Pat-Megabite/Portfolio'
 },
 {
     id:3,
